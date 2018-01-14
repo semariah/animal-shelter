@@ -1,0 +1,13 @@
+h1 {
+  color : blue;
+  text-align: center;
+}
+ div {
+   font-style: normal;
+   border: 3px solid black;
+   padding: 12px;
+   margin: 4px;
+ }
+ .rescue{
+   color: green;
+ }
